@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepa</h1>
 
-<h2 align="center">I’m passionate in upskilling **AWS, DevOps**</h3>
+<h2 align="center">I’m passionate in upskilling Cloud and DevOps</h3>
 
 <h3 align="left">I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments.</h3> 
 <h3 align="left">I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.</h3>
@@ -65,7 +65,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepa-mathan&show_icons=true&locale=en&layout=compact" alt="deepa-mathan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepa-mathan&show_icons=true&locale=en" alt="deepa-mathan" /></p>
 
