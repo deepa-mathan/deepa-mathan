@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepa</h1>
-<h3 align="center">I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments.</h3> 
-<h3 align="center">I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.</h3>
+
+<h2 align="center">I’m passionate in upskilling **AWS, DevOps**</h3>
+
+<h3 align="left">I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments.</h3> 
+<h3 align="left">I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
-
-- 🌱 I’m passionate in upskilling **AWS, DevOps**
 
 - 📫 Reach me **deepaskr28@gmail.com**
 
