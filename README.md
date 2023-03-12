@@ -2,10 +2,8 @@
 
 <h2 align="center">I’m passionate in upskilling Cloud and DevOps</h3>
 
-<h3 align="left">I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments.</h3> 
-<h3 align="left">I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
+- I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments. 
+- I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.
 
 ## Technical Contribution:
 
@@ -15,15 +13,14 @@ The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open so
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. 
 
-- 📫 Connect with us: 
-- [Website](https://cloudnloud.com/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)
+📫 **Connect with us: **
+
+ <h3 align="left">[Website](https://cloudnloud.com/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)</h3>
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepasendur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepasendur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deepamathan" height="30" width="40" /></a>
-<a href="https://fb.com/deepasendur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepasendur" height="30" width="40" /></a>
-<a href="https://instagram.com/deepasendur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepasendur" height="30" width="40" /></a>
+<a href="https://twitter.com/deepasendur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepasendur" height="30" width="40" /></a>
 <a href="https://medium.com/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepamathan" height="30" width="40" /></a>
 </p>
 
@@ -73,7 +70,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 [Jenkins Introduction](https://www.linkedin.com/posts/deepamathan_connections-devops-cloud-activity-7027346755427979264-FNSk?utm_source=share&utm_medium=member_desktop)
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepa-mathan&show_icons=true&locale=en" alt="deepa-mathan" /></p>
 
