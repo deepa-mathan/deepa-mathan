@@ -27,7 +27,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-# LinkedIn Posts
+# My LinkedIn Posts
 
 ## Terraform
 
@@ -68,6 +68,12 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 ## Jenkins
 
 [Jenkins Introduction](https://www.linkedin.com/posts/deepamathan_connections-devops-cloud-activity-7027346755427979264-FNSk?utm_source=share&utm_medium=member_desktop)
+
+
+# Cloudnloud Community Meetings:
+
+[Community Workshop](https://www.linkedin.com/posts/deepamathan_building-experience-cloudnloud-activity-7040383610901712896-EAfj?utm_source=share&utm_medium=member_desktop)
+[Session on Github](https://www.linkedin.com/posts/deepamathan_community-github-opensource-activity-7040699671509426176-oY5T?utm_source=share&utm_medium=member_desktop)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
