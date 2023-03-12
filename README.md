@@ -15,7 +15,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 # Connect with us: 
 
- [Website](https://cloudnloud.com/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)
+ # [Website](https://cloudnloud.com/) | [Linkedin](https://www.linkedin.com/company/cloudnloud/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
