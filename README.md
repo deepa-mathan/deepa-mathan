@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Deepa</h1>
 
-<h2 align="center">I’m passionate in upskilling Cloud and DevOps</h3>
+<h2 align="center">Passionate in upskilling Cloud and DevOps</h3>
 
 - I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments. 
 - I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.
