@@ -13,9 +13,9 @@ The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open so
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. 
 
-📫 **Connect with us: **
+# Connect with us: 
 
- <h3 align="left">[Website](https://cloudnloud.com/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)</h3>
+ [Website](https://cloudnloud.com/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
