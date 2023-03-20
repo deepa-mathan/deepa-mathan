@@ -61,6 +61,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 ## Git
 
+[How to create GitHub Profile](https://www.linkedin.com/posts/deepamathan_github-profile-creation-and-git-commands-activity-7042520650623700992-wBwo?utm_source=share&utm_medium=member_desktop)
+
 [Connect Github via VS Code Editor](https://www.linkedin.com/posts/deepamathan_technology-cloudnloud-devops-activity-7032085262402805760-pGhE?utm_source=share&utm_medium=member_desktop)
 
 [Git Commands](https://www.linkedin.com/posts/deepamathan_cloudnloud-devops-community-activity-7032284711842439168-uh-E?utm_source=share&utm_medium=member_desktop)
