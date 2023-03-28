@@ -71,6 +71,8 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 [Jenkins Introduction](https://www.linkedin.com/posts/deepamathan_connections-devops-cloud-activity-7027346755427979264-FNSk?utm_source=share&utm_medium=member_desktop)
 
+[Steps to Install Jenkins on EC2 Instance](https://www.linkedin.com/posts/deepamathan_step-to-install-jenkins-on-aws-ec2-instance-activity-7046214195293405184-FOvO?utm_source=share&utm_medium=member_desktop)
+
 
 # Cloudnloud Community Meetings:
 
