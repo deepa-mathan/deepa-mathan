@@ -38,7 +38,7 @@
 
 [VPC Peering](https://www.linkedin.com/posts/deepamathan_vpc-terraform-aws-activity-7029547369696272385-si7Q?utm_source=share&utm_medium=member_desktop)
 
-[Amazon Aurora] (https://www.linkedin.com/posts/deepamathan_aws-rds-community-activity-7049822600541179905-uE-A?utm_source=share&utm_medium=member_desktop)
+[Amazon Aurora](https://www.linkedin.com/posts/deepamathan_aws-rds-community-activity-7049822600541179905-uE-A?utm_source=share&utm_medium=member_desktop)
 
 ## Git
 
@@ -83,7 +83,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 [Session on Github](https://www.linkedin.com/posts/deepamathan_community-github-opensource-activity-7040699671509426176-oY5T?utm_source=share&utm_medium=member_desktop)
 
-[ELK Meetup] (https://www.linkedin.com/posts/deepamathan_cloudnloud-technology-aws-activity-7070845865841610752-GoSP?utm_source=share&utm_medium=member_desktop)
+[ELK Meetup](https://www.linkedin.com/posts/deepamathan_cloudnloud-technology-aws-activity-7070845865841610752-GoSP?utm_source=share&utm_medium=member_desktop)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
