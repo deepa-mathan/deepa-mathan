@@ -2,8 +2,9 @@
 
 <h2 align="center">Passionate in upskilling Cloud and DevOps</h3>
 
-- I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments. 
-- I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops.
+- I completed my post graduation from madras university and having 10 years work experience in technical support.
+  
+- I am passionate in learning and adapting new skills.
 
 # LinkedIn Posts
 
