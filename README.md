@@ -4,7 +4,9 @@
 
 - I completed my post graduation from madras university and having 10 years work experience in technical support.
   
-- I am passionate in learning and adapting new skills.
+- I am ambitious in learning and adapting new skills in AWS & DevOps, always wanted to stay up to date with the latest industry trends and advancements.
+
+- I am a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team member, volunteering as AWS & DevOps advocacy is an excellent way to contribute my skills and knowledge.
 
 # LinkedIn Posts
 
