@@ -8,7 +8,15 @@
 
 - I am a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team member, volunteering as AWS & DevOps advocacy is an excellent way to contribute my skills and knowledge.
 
-# LinkedIn Posts
+## My LinkedIn Posts
+
+## AWS
+
+[Databases On AWS](https://www.linkedin.com/posts/deepamathan_aws-training-community-activity-7019008623469096960-PGMB?utm_source=share&utm_medium=member_desktop)
+
+[VPC Peering](https://www.linkedin.com/posts/deepamathan_vpc-terraform-aws-activity-7029547369696272385-si7Q?utm_source=share&utm_medium=member_desktop)
+
+[Amazon Aurora](https://www.linkedin.com/posts/deepamathan_aws-rds-community-activity-7049822600541179905-uE-A?utm_source=share&utm_medium=member_desktop)
 
 ## Terraform
 
@@ -33,14 +41,6 @@
 [Terraform workflow](https://www.linkedin.com/posts/deepamathan_terraform-terraform-terraform-activity-7018292543511560192-mK9u/?utm_source=share&utm_medium=member_desktop)
 
 [Terraform Variables](https://www.linkedin.com/posts/deepamathan_a-note-on-terraform-variables-activity-7037842171399479296-weva?utm_source=share&utm_medium=member_desktop)
-
-## AWS
-
-[Databases On AWS](https://www.linkedin.com/posts/deepamathan_aws-training-community-activity-7019008623469096960-PGMB?utm_source=share&utm_medium=member_desktop)
-
-[VPC Peering](https://www.linkedin.com/posts/deepamathan_vpc-terraform-aws-activity-7029547369696272385-si7Q?utm_source=share&utm_medium=member_desktop)
-
-[Amazon Aurora](https://www.linkedin.com/posts/deepamathan_aws-rds-community-activity-7049822600541179905-uE-A?utm_source=share&utm_medium=member_desktop)
 
 ## Git
 
