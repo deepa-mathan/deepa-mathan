@@ -8,9 +8,14 @@
 
 - I am a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team member, volunteering as AWS & DevOps advocacy is an excellent way to contribute my skills and knowledge.
 
+<h3 align="left">Technical Skills and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
 ## My LinkedIn Posts
 
-## AWS
+Sharing my knowledge and experiences through blog post. It's an opportunity to make a meaningful impact while continuing to grow as a DevOps leader. 
+
+**AWS**
 
 [Databases On AWS](https://www.linkedin.com/posts/deepamathan_aws-training-community-activity-7019008623469096960-PGMB?utm_source=share&utm_medium=member_desktop)
 
@@ -18,7 +23,7 @@
 
 [Amazon Aurora](https://www.linkedin.com/posts/deepamathan_aws-rds-community-activity-7049822600541179905-uE-A?utm_source=share&utm_medium=member_desktop)
 
-## Terraform
+**Terraform**
 
 [Launching an EC2 Instance](https://www.linkedin.com/posts/deepamathan_terraform-terraform-aws-activity-7010659370065690624-cxrJ?utm_source=share&utm_medium=member_desktop)
 
@@ -42,7 +47,7 @@
 
 [Terraform Variables](https://www.linkedin.com/posts/deepamathan_a-note-on-terraform-variables-activity-7037842171399479296-weva?utm_source=share&utm_medium=member_desktop)
 
-## Git
+**Git**
 
 [How to create GitHub Profile](https://www.linkedin.com/posts/deepamathan_github-profile-creation-and-git-commands-activity-7042520650623700992-wBwo?utm_source=share&utm_medium=member_desktop)
 
@@ -50,7 +55,7 @@
 
 [Git Commands](https://www.linkedin.com/posts/deepamathan_cloudnloud-devops-community-activity-7032284711842439168-uh-E?utm_source=share&utm_medium=member_desktop)
 
-## Jenkins
+**Jenkins**
 
 [Jenkins Introduction](https://www.linkedin.com/posts/deepamathan_connections-devops-cloud-activity-7027346755427979264-FNSk?utm_source=share&utm_medium=member_desktop)
 
@@ -64,8 +69,7 @@
 <a href="https://medium.com/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepamathan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
 
 ## Technical Contribution:
 
