@@ -67,9 +67,9 @@ Sharing my knowledge and experiences through blog post. It's an opportunity to m
 
 [Steps to Install Jenkins on EC2 Instance](https://www.linkedin.com/posts/deepamathan_step-to-install-jenkins-on-aws-ec2-instance-activity-7046214195293405184-FOvO?utm_source=share&utm_medium=member_desktop)
 
-**Jenkins**
+**Medium Blogs**
 
-
+[DevOps Blog Series] (https://medium.com/cloudnloud/a-series-of-devops-tools-e1de1aecbf28)
 
 
 <h3 align="left">Reach me:</h3>
