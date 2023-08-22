@@ -8,8 +8,32 @@
 
 - I am a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team member, volunteering as AWS & DevOps advocacy is an excellent way to contribute my skills and knowledge.
 
-<h3 align="left">Technical Skills and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> </a> </p>
+<h2 align="left">Technical Skills and Tools:</h2>
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
+ 
+
+<h3 align="left">Tools In DevOps:</h3>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+
+<a href="https://github.com//" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
+
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a> 
+
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  
+
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> </a> </p>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a>
+
+<a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">   <img src="https://github.com/deepa-mathan/devicons/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
 
 ## My LinkedIn Posts
 
