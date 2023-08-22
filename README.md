@@ -69,7 +69,7 @@ Sharing my knowledge and experiences through blog post. It's an opportunity to m
 
 **Medium Blogs**
 
-[DevOps Blog Series] (https://medium.com/cloudnloud/a-series-of-devops-tools-e1de1aecbf28)
+[DevOps Blog Series](https://medium.com/cloudnloud/a-series-of-devops-tools-e1de1aecbf28)
 
 
 <h3 align="left">Reach me:</h3>
