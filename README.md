@@ -2,9 +2,9 @@
 
 <h2 align="center">Passionate in upskilling Cloud and DevOps</h3>
 
-- I completed my post graduation from madras university and having 10 years work experience in technical support.
+- I completed my post-graduation from Madras University and have 10 years of work experience in technical support.
   
-- I am ambitious in learning and adapting new skills, passionate DevOps Cloud engineer, always wanted to stay up to date with the latest industry trends and advancements.
+- I am ambitious in learning and adapting new skills, a passionate DevOps Cloud engineer, and always wanted to stay up to date with the latest industry trends and advancements.
 
 <h2 align="left">Technical Skills and Tools:</h2>
 
@@ -17,7 +17,7 @@
 
 ## My LinkedIn Posts
 
-Sharing my knowledge and experiences through blog post. It's an opportunity to make a meaningful impact while continuing to grow as a DevOps leader. 
+I am sharing my knowledge and experiences through blog posts. It's an opportunity to make a meaningful impact while continuing to grow as a DevOps leader. 
 
 **AWS**
 
@@ -73,7 +73,6 @@ Sharing my knowledge and experiences through blog post. It's an opportunity to m
 <h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deepamathan" height="30" width="40" /></a>
-<a href="https://twitter.com/deepasendur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepasendur" height="30" width="40" /></a>
 <a href="https://medium.com/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepamathan" height="30" width="40" /></a>
 </p>
 
