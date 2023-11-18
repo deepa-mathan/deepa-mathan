@@ -6,8 +6,6 @@
   
 - I am ambitious in learning and adapting new skills, passionate DevOps Cloud engineer, always wanted to stay up to date with the latest industry trends and advancements.
 
-- I am a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team member, volunteering as AWS & DevOps advocacy is an excellent way to contribute my skills and knowledge.
-
 <h2 align="left">Technical Skills and Tools:</h2>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>  
@@ -79,27 +77,6 @@ Sharing my knowledge and experiences through blog post. It's an opportunity to m
 <a href="https://medium.com/@deepamathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepamathan" height="30" width="40" /></a>
 </p>
 
-
-
-## Technical Contribution:
-
-I am happy to be a part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team. Learning new technologies every day makes me more confident and brings happiness too. 
-
-The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰Cloudnloud is aiming to save 2 million children from their cancer death.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools. 
-
-## Connect Us: 
-
- [Website](https://cloudnloud.com/) | [Linkedin](https://www.linkedin.com/company/cloudnloud/) | [Twitter](https://twitter.com/cloudnloud) | [YouTube](https://www.youtube.com/@CloudnLoud)
-
-## Cloudnloud Community Meetings:
-
-[Community Workshop](https://www.linkedin.com/posts/deepamathan_building-experience-cloudnloud-activity-7040383610901712896-EAfj?utm_source=share&utm_medium=member_desktop)
-
-[Session on Github](https://www.linkedin.com/posts/deepamathan_community-github-opensource-activity-7040699671509426176-oY5T?utm_source=share&utm_medium=member_desktop)
-
-[ELK Meetup](https://www.linkedin.com/posts/deepamathan_cloudnloud-technology-aws-activity-7070845865841610752-GoSP?utm_source=share&utm_medium=member_desktop)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepa-mathan&label=Profile%20views&color=0e75b6&style=flat" alt="deepa-mathan" /> </p>
